@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+.container { max-width: 760px; margin: auto; }
+button { padding: 8px 12px; margin-top: 8px; cursor: pointer; }
+.capture, .liveness { margin-top: 12px; }
+video { border: 1px solid #ccc; width: 320px; height: 240px; }
+pre { background: #f7f7f7; padding: 12px; border-radius: 6px; }

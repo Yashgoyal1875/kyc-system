@@ -1,0 +1,8 @@
+{
+  "status": "rejected",
+  "score": 0.0,
+  "reasons": [
+    "face_mismatch",
+    "insufficient_ocr"
+  ]
+}

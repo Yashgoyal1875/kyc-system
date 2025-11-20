@@ -1,0 +1,9 @@
+﻿fastapi==0.95.2
+uvicorn[standard]==0.22.0
+python-multipart
+pillow
+pytesseract
+opencv-python
+numpy
+scikit-learn
+joblib
